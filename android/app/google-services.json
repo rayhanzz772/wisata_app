@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241323065528",
+    "project_id": "wisataapp-59198",
+    "storage_bucket": "wisataapp-59198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241323065528:android:5e74f6a7ebc7f8bb52b44d",
+        "android_client_info": {
+          "package_name": "com.example.login_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkjhjT1GeebWJVwJuZRro43PpwmUZpbuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
